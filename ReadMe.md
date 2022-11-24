@@ -1,1 +1,3 @@
-my first readme
+#Learning at Alx  
+
+This is a readme
